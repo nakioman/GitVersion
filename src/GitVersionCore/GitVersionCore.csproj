@@ -68,6 +68,7 @@
     <Compile Include="BuildServers\AppVeyor.cs" />
     <Compile Include="BuildServers\BuildServerBase.cs" />
     <Compile Include="BuildServers\BuildServerList.cs" />
+    <Compile Include="BuildServers\BuildVNext.cs" />
     <Compile Include="BuildServers\ContinuaCi.cs" />
     <Compile Include="BuildServers\GitHelper.cs" />
     <Compile Include="BuildServers\IBuildServer.cs" />
